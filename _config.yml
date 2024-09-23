@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/f1.png"
+  avatar           : images/f1.png
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "My name is Filippos Gouidis. I am current a PhD student at the University of Crete, Greece. My research interests concern knowledge representation and visual classification."
@@ -81,9 +81,9 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-
+#![](../images/file.png)
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : ../images/file.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
