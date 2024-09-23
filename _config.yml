@@ -20,13 +20,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "My name is Filippos Gouidis. I am current a PhD student at the University of Crete, Greece. My research interests concern knowledge representation and visual classification."
   location         : "Heraklion, Greece"
   employer         : "Computer Science Department, University of Crete - Foundation for Research and Technology"
-  uri              : # URL
+ # uri              : # URL
+  url: https://username.github.io
+  baseurl: ""
   email            : "fgouidis@gmail.com" 
 
   # Academic websites
