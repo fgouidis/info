@@ -26,7 +26,7 @@ author:
   bio              : "My name is Filippos Gouidis. I am current a PhD student at the University of Crete, Greece. My research interests concern knowledge representation and visual classification."
   location         : "Heraklion, Greece"
   employer         : "Computer Science Department, University of Crete - Foundation for Research and Technology"
-  uri              :  #"https://github.com/fgouidis/info" # URL
+  uri              :  "https://fgouidis.github.io/info/" # URL
   email            : "fgouidis@gmail.com" 
 
   # Academic websites
